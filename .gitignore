@@ -173,3 +173,6 @@ vgcore.*
 Wireshark.*
 .pytest_cache/
 test/*.log
+
+# Qt ignore
+qt-wireshark.*
